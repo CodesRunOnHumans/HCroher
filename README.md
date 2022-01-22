@@ -1,5 +1,5 @@
 # HCroher
-A Croh compiler written in pure Croh.
+A [`Croh`](https://github.com/CodesRunOnHumans/CodesRunOnHumans.git) compiler written in pure `Croh`.
 
 ## How to use?
 1. Find a human being, or yourself to run the code;
